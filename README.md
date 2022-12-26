@@ -1,4 +1,6 @@
-CIAN - Real Estate price prediction](https://www.cian.ru/ - a largest Russian real estate portal with rich functionality. Cian group with is offering a new approach to the process of purchasing real estate with the aim to provide a one-stop services platform. Company offer a vast variety of services and cooperate with real estate agencies, insurance companies, banks and the real estate developers. 
+CIAN - Real Estate price prediction
+
+https://www.cian.ru/ - a largest Russian real estate portal with rich functionality. Cian group with is offering a new approach to the process of purchasing real estate with the aim to provide a one-stop services platform. Company offer a vast variety of services and cooperate with real estate agencies, insurance companies, banks and the real estate developers. 
 
 In 2020 Cian Group in partnership with 1Cbit Russia has launched a project to develop an online real estate evaluation service in order to enrich cian.ru functionality and became a #1 Russian real estate portal.
 The evaluation is based on weightened importance factors for data taken from different sources:
@@ -21,9 +23,6 @@ object_type - Apartment type. 1 - Secondary real estate market; 2 - New building
 level - Apartment floor
 levels - Number of storeys
 rooms - the number of living rooms. If the value is "-1", then it means "studio apartment"
-area - the total area of ​​the apartment
+area - the total area of the apartment
 kitchen_area - Kitchen area
 price - Price. in rubles
-
-
-)
